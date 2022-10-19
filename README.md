@@ -4,4 +4,4 @@
 - 📫 How to reach me hughie (at) carrollonline.co.uk
 - 🌄 Triumphant homepages at [hugle](https://hugle.co.uk/)
 
-![wall & door](https://hugle.co.uk/assets/images/bio/h-wall-door.jpg)
+![wall & door](https://hugle.uk/images/bio/h-wall-door.jpg)
